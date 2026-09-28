@@ -1,0 +1,3 @@
+Model,Experiment,MAE,RMSE,R2,Best iteration
+XGBoost,Baseline (n_estimators=100),3.7565486431121826,6.295066706369877,0.9999046325683594,99
+XGBoost,"Revised (n_estimators=1000, early stopping)",3.4612483978271484,6.02633007769424,0.9999126195907593,494
